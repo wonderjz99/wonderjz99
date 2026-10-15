@@ -1,6 +1,4 @@
-I'm a PhD student in Hong Kong and an AI learner.
-
-I'm also a fundamental investor and always happy to exchange ideas.
+Hi 👋 Here is wonder. I'm a student, an AI learner and a fundamental investor. I am always happy to exchange ideas.
 
 ## Projects
 
@@ -12,11 +10,11 @@ I'm also a fundamental investor and always happy to exchange ideas.
 
 - **Robust Offline Policy Learning with Multisite Data** ([PDF](papers/robust-offline-policy-learning.pdf)): Combine multisource doubly robust estimation with worst-case optimization to learn reliable policies under uncertainty about the target environment.
 - **Tensor Completion and Inference for General Missing Patterns**: Study estimation, missing-value recovery, and statistical inference in tensor factor models.
-- [Workforce Aging and Structural Shift](https://scholars.cityu.edu.hk/en/projects/workforce-aging-and-structural-shift/): Study how workforce age composition affects manufacturing employment, output, and wages.
+- **Workforce Aging and Structural Shift**: Study how workforce age composition affects manufacturing employment, output, and wages.
 
 ## Videos & Writing
 
-- 🎥 [B 站](https://space.bilibili.com/239334341): I share content on econometrics and game theory, along with scenery from around the world.
+- 🎥 [Bilibili/B站](https://space.bilibili.com/239334341): I share content on econometrics and game theory, along with scenery from around the world.
 
 ## Currently Learning
 
