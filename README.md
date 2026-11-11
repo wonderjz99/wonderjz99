@@ -2,9 +2,9 @@ Hi 👋 Here is wonder. I'm a student, an AI learner and a fundamental investor.
 
 ## Projects
 
-- 💰 [A-Share Dividend Ledger](https://github.com/wonderjz99/dsh-stock-dividend): Track accumulated and pending dividends using holdings and public dividend announcements.
+- 💰 [AI stock analysis and visulization](https://value.wonderjz.workers.dev/): New Web !
 - 🗺️ [Shenzhen Food Safety Map](https://github.com/wonderjz99/Food-sz): Search and explore food safety ratings for restaurants across Shenzhen.
-- 🧭 [AI Landscape](https://github.com/wonderjz99/AI-lian): Explore industry and investment relationships among Chinese AI companies through an interactive map.
+
 
 ## Research
 
