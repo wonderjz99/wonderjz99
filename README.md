@@ -2,7 +2,7 @@ Hi 👋 Here is wonder. I'm a student, an AI learner and a fundamental investor.
 
 ## Projects
 
-- 💰 [AI stock analysis and visulization](https://value.wonderjz.workers.dev/): New Web !
+- 💰 [AI stock analysis and visulization](https://value.wonderjz.workers.dev/): New Web (https://value.wonderjz.workers.dev/)
 - 🗺️ [Shenzhen Food Safety Map](https://github.com/wonderjz99/Food-sz): Search and explore food safety ratings for restaurants across Shenzhen.
 
 
@@ -14,7 +14,7 @@ Hi 👋 Here is wonder. I'm a student, an AI learner and a fundamental investor.
 
 ## Videos & Writing
 
-- 🎥 [Bilibili/B站](https://space.bilibili.com/239334341): I share content on econometrics and game theory, along with scenery from around the world.
+- 🎥 [Bilibili/B站](https://space.bilibili.com/239334341): I share content on Economics, my thoughts about AI along with scenery from around the world.
 
 ## Currently Learning
 
